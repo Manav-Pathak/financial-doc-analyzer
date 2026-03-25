@@ -45,7 +45,7 @@ combine/
 ### 1. Clone and enter the project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Manav-Pathak/financial-doc-analyzer.git
 cd combine
 ```
 
