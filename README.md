@@ -107,6 +107,4 @@ Then open:
 
 Add your demo link here:
 
-- Demo: <paste-your-video-link>
-
-(You can replace this with an embedded thumbnail or a short walkthrough section later.)
+- Demo: 
